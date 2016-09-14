@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android-studio-projects\Top10\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\android-studio-projects\Top10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_faa0e570678900cbcd26f5045205de2f7d3e5102\classes.dex" />
+    </item>
+    <item
+        jar="E:\android-studio-projects\Top10\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78f6188c909578323f26343883e6949653d72027">
+        <dex dex="E:\android-studio-projects\Top10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1c6fcffc7ad817747a30d0bd366c4ce51e300d39\classes.dex" />
+    </item>
+    <item
+        jar="E:\android-studio-projects\Top10\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\android-studio-projects\Top10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_c2522d9a560d1ac48072ec0c5087621ae02a38eb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\android-studio-projects\Top10\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aa16b3cf885393ef74ba8407c65bcf20627dd05b\classes.dex" />
+    </item>
+    <item
+        jar="E:\android-studio-projects\Top10\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7077ec68a0908a225ee8ec747b0a4967229f747d">
+        <dex dex="E:\android-studio-projects\Top10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_46590b8f0fad2268f66ea4067df89da71386fa31\classes.dex" />
+    </item>
+
+</items>
